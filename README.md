@@ -26,4 +26,6 @@ In 2014, I gained access to the database of the company Axeso5 by exploiting a f
 
 However, the reverse engineering of the network protocol was relatively straightforward; tools like "Charles Proxy" were used to capture traffic, revealing the parameters sent to the web API, as well as the internal "INET" component triggered when the game was run with administrator privileges. And I ended up creating this functional project in 2014; it is now obsolete following the change of company from Axeso5 to Softnyx.
 
+Rusia Launcher Official: https://github.com/VassaMadness/Operation7-Rusia-Official
+
 <img width="1018" height="739" alt="image" src="https://github.com/user-attachments/assets/45b6ff2f-9b27-4ffe-9b8e-d88a442b8fba" />
