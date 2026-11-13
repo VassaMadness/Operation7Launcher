@@ -29,3 +29,8 @@ However, the reverse engineering of the network protocol was relatively straight
 Rusia Launcher Official: https://github.com/VassaMadness/Operation7-Rusia-Official
 
 <img width="1018" height="739" alt="image" src="https://github.com/user-attachments/assets/45b6ff2f-9b27-4ffe-9b8e-d88a442b8fba" />
+
+The topic was already being discussed, to some extent, in certain forums around 2011; however, these were not public forums that were easy to find. Furthermore, there was not much information available on the subject, although it could be inferred that NCSOFT was the company behind this piece of code.
+
+<img width="1345" height="443" alt="image" src="https://github.com/user-attachments/assets/fd116080-83fc-4db1-a1e2-3c2f58a37143" />
+
