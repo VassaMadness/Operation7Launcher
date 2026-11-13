@@ -2,7 +2,10 @@
 # Operation7 Clauncher
 # Operation7 Latino Launcher
 # Operation7 Launcher
+
 Operation7 Game Launcher with Login and Auto-Save.
+
+Almost 20 years of lost history—I can finally rest.
 
 [Theoretical Context]
 Operation7 was created by ParkESM, likely around 2003 or 2006.
@@ -34,7 +37,6 @@ The topic was already being discussed, to some extent, in certain forums around 
 
 <img width="1345" height="443" alt="image" src="https://github.com/user-attachments/assets/fd116080-83fc-4db1-a1e2-3c2f58a37143" />
 
-
 "Beta Open 2008-2009"
 
 Based on my experience from nearly 20 years of work, I can say that it is possible to create a fully functional private server using this. (I am not including it at the moment due to legal reasons; this is just the launcher, and it is not written in the original programming language.)
@@ -42,3 +44,5 @@ Based on my experience from nearly 20 years of work, I can say that it is possib
 The game was originally created using C++ and tools from the 1990s to 2003.
 
 https://github.com/user-attachments/assets/b92f14de-6945-49bc-a35d-8c50654eff82
+
+La creación de mapas fue obra de TRACEngine que utilizaba clases de "Radiant" y tecnicas inspiradas en "Quake" o tambien "Wolfenstein" - Descubri que el Motor Trabajaba con Transparencias y que podias vincularlo a 
