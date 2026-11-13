@@ -34,6 +34,11 @@ The topic was already being discussed, to some extent, in certain forums around 
 
 <img width="1345" height="443" alt="image" src="https://github.com/user-attachments/assets/fd116080-83fc-4db1-a1e2-3c2f58a37143" />
 
+
 "Beta Open 2008-2009"
+
+Based on my experience from nearly 20 years of work, I can say that it is possible to create a fully functional private server using this. (I am not including it at the moment due to legal reasons; this is just the launcher, and it is not written in the original programming language.)
+
+The game was originally created using C++ and tools from the 1990s to 2003.
 
 https://github.com/user-attachments/assets/b92f14de-6945-49bc-a35d-8c50654eff82
