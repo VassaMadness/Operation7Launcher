@@ -34,3 +34,6 @@ The topic was already being discussed, to some extent, in certain forums around 
 
 <img width="1345" height="443" alt="image" src="https://github.com/user-attachments/assets/fd116080-83fc-4db1-a1e2-3c2f58a37143" />
 
+https://github.com/user-attachments/assets/b92f14de-6945-49bc-a35d-8c50654eff82
+
+
